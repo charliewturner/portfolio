@@ -25,6 +25,16 @@ function Projects(): React.JSX.Element {
           Konva for canvas drawing. Includes user syncing, shape tools, and
           undo/redo support.
         </a>
+        <a
+          href="https://curator-catalogue.netlify.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="project-tile"
+        >
+          <h3>Curator Catalogue</h3> My first piece of paid freelance work. A
+          fast, minimalist web app for exploring and presenting digital art
+          exhibitions, built with React, Vite, and CSS.
+        </a>
       </div>
     </div>
   );
